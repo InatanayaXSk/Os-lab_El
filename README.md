@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # C-Batch-OS-Simulator
 
 A console program that can compile and execute programs either by the user entering the name of the program, or automatically executing all of the programs.  The program will essentially simulate the system monitor of a Batch system.
@@ -20,3 +21,6 @@ Each time a program does some I/O, it does a small delay/pause.
 * Shutdown
 * List program options
 * Help
+=======
+# Os-lab_El
+>>>>>>> 6b3b5caa1eacbde69db5a2e6010cdbe02e5a6baf
